@@ -26,7 +26,7 @@
 
 ```bash
 # Скачать скрипт
-wget -O /usr/local/bin/security_check.sh https://raw.githubusercontent.com/kukurutodd/security-check/main/security_check.sh
+git clone https://github.com/kukurutodd/check-security-minimum.git
 
 # Дать права на выполнение
 chmod +x /usr/local/bin/security_check.sh
